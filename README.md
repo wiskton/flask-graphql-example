@@ -3,7 +3,7 @@
 
 Running project
 
-    poetry initCancel changes
+    poetry init
     poetry add flask ariadne flask-sqlalchemy flask-cors
     poetry shell
     flask run
