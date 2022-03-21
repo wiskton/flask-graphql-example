@@ -3,10 +3,10 @@
 
 Running project
 
-  poetry init
-  poetry add flask ariadne flask-sqlalchemy flask-cors
-  poetry shell
-  flask run
+    poetry initCancel changes
+    poetry add flask ariadne flask-sqlalchemy flask-cors
+    poetry shell
+    flask run
 
 
 Open the browser
