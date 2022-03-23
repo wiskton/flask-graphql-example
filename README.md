@@ -3,8 +3,7 @@
 
 Running project
 
-    poetry init
-    poetry add flask ariadne flask-sqlalchemy flask-cors
+    poetry install
     poetry shell
     flask run
 
